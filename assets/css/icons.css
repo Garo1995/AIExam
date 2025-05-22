@@ -1,0 +1,118 @@
+.icon-user{
+    content: url("../img/icons/user.svg");
+    width: 29px;
+    height: 29px;
+}
+.icon-students{
+    content: url("../img/icons/students.svg");
+    width: 29px;
+    height: 29px;
+}
+
+.icon-star{
+    content: url("../img/icons/star.svg");
+    width: 17px;
+    height: 17px;
+}
+
+
+.icon-dictionary{
+    content: url("../img/icons/dictionary.svg");
+}
+.icon-calculate{
+    content: url("../img/icons/calculate.svg");
+}
+.icon-hourglass{
+    content: url("../img/icons/hourglass.svg");
+}
+.icon-group{
+    content: url("../img/icons/group.svg");
+}
+.icon-eco{
+    content: url("../img/icons/eco.svg");
+}
+.icon-planet{
+    content: url("../img/icons/planet.svg");
+}
+.icon-experiment{
+    content: url("../img/icons/experiment.svg");
+}
+.icon-border-color{
+    content: url("../img/icons/border-color.svg");
+}
+.icon-lightbulb{
+    content: url("../img/icons/lightbulb.svg");
+}
+.icon-auto-stories{
+    content: url("../img/icons/auto-stories.svg");
+}
+.icon-info{
+    content: url("../img/icons/info.svg");
+}
+.icon-quiz{
+    content: url("../img/icons/quiz.svg");
+}
+.icon-assignment{
+    content: url("../img/icons/assignment.svg");
+}
+.icon-book{
+    content: url("../img/icons/book.svg");
+}
+.icon-azm{
+    content: url("../img/icons/azm.svg");
+}
+.icon-calendar{
+    content: url("../img/icons/calendar.svg");
+}
+.icon-rocket{
+    content: url("../img/icons/rocket.svg");
+}
+.icon-alarm{
+    content: url("../img/icons/alarm.svg");
+}
+.icon-archive{
+    content: url("../img/icons/archive.svg");
+}
+.icon-check-box{
+    content: url("../img/icons/check-box.svg");
+}
+.icon-neurology{
+    content: url("../img/icons/neurology.svg");
+}
+.icon-thumb-up{
+    content: url("../img/icons/thumb-up.svg");
+}
+.icon-rocket-launch{
+    content: url("../img/icons/rocket-launch.svg");
+}
+
+.icon-display-settings{
+    content: url("../img/icons/display-settings.svg");
+}
+.icon-database{
+    content: url("../img/icons/database.svg");
+}
+.icon-interests{
+    content: url("../img/icons/interests.svg");
+}
+.icon-help-center{
+    content: url("../img/icons/help-center.svg");
+}
+
+.icon-clarify{
+    content: url("../img/icons/clarify.svg");
+}
+
+.icon-forum{
+    content: url("../img/icons/forum.svg");
+}
+.icon-star-rate{
+    content: url("../img/icons/star-rate.svg");
+}
+.icon-arrow-left{
+    content: url("../img/icons/arrow-left.svg");
+}
+
+.icon-arrow-right{
+    content: url("../img/icons/arrow-right.svg");
+}
