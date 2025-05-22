@@ -439,7 +439,16 @@ p{
     margin-top: 15px;
 }
 
+.reviews-students-slider  .swiper-slide{
+    opacity: 0!important;
+    transition: 0.4s;
+}
+.reviews-students-slider .swiper-slide-active{
+    z-index: 9;
+    position: relative;
+    opacity: 1!important;
 
+}
 
 
 .about-us-flex{
@@ -726,7 +735,7 @@ p{
     background: #FFFFFF;
     gap: 30px;
     border-radius: 20px;
-    padding: 50px;
+    padding: 45px 38px;
 }
 .reviews-students-text p{
     font-size: 18px;
