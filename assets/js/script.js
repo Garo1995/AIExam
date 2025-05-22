@@ -76,6 +76,7 @@ let reviewsSwiper = new Swiper(".reviews-students-slider", {
     spaceBetween: 10,
     loop: true,
     speed: 600,
+    effect: "fade",
     navigation: {
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",
