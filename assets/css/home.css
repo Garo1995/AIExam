@@ -477,8 +477,13 @@ p{
     color: #262626;
     margin-top: 25px;
 }
+.about-us-box .btn{
+    position: relative;
+    z-index: 2;
+}
 .about-us-statistics{
-    background: #FBF5FF;
+    background: #F9FBFC;
+
     grid-column: 1 / span 1;
     grid-row: 1 / span 1;
     height: 181px;
@@ -855,6 +860,7 @@ footer{
 .footer-menu a{
     white-space: normal;
     text-align: left;
+    line-height: 160%;
 }
 .footer-btn{
     gap: 30px;
@@ -1391,7 +1397,6 @@ footer{
     }
    footer .menu-scroll a {
         font-size: 13px;
-        line-height: 15px;
     }
 
     .footer-menu ul {
@@ -1558,6 +1563,9 @@ footer{
     .users-choose-main:before {
         width: 130px;
         height: 101px;
+    }
+    footer .menu-scroll a {
+        font-size: 12px;
     }
 }
 @media (max-width: 460px){
